@@ -1,2 +1,5 @@
 # Webscraper
-Webscraping IMDB with bs4.
+Webscraping IMDB top rated movies with Python's bs4 package.
+
+# Todo
+
